@@ -1,0 +1,30 @@
+/* En el archivo design.css */
+body {
+    background-color: lightblue; /* Fondo azul claro */
+    color: darkblue;            /* Texto azul oscuro */
+    padding-left: 50px;  /* Margen interno a la izquierda */
+    padding-right: 50px; /* Margen interno a la derecha (para simetría) */
+}
+
+    .footer-photo {
+    text-align: center;  /* Alinea el contenido (la imagen) al centro */
+    margin-top: 40px;    /* Espaciado superior para que la foto no esté pegada al texto */
+    padding-bottom: 20px; /* Espaciado inferior hasta el borde de la página */
+    }
+
+    .footer-photo img {
+    max-width: 300px;    /* Limita el ancho de la foto si es muy grande */
+    height: auto;        /* Mantiene las proporciones */
+    }
+
+        .main-photo {
+        text-align: center;  /* Alinea el contenido (la imagen) al centro */
+        margin-top: 40px;    /* Espaciado superior para que la foto no esté pegada al texto */
+        padding-bottom: 20px; /* Espaciado inferior hasta el borde de la página */
+        }
+
+        .main-photo img {
+        max-width: 300px;    /* Limita el ancho de la foto si es muy grande */
+        height: auto;        /* Mantiene las proporciones */
+        }
+
